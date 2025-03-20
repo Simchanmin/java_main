@@ -5,8 +5,9 @@
 
 
 ## 3/20 
-돋보기 클릭 : SEARCH,   돋보기 + > : cmd
-
+1.java 프로젝트 생성법  
+돋보기 클릭 : SEARCH, 돋보기 + > : cmd
+create java project 
 
 
 
